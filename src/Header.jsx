@@ -4,9 +4,9 @@
 function Header() {
 
   return (
-    <>
-      <h1>🤘 Gallery of Horns 🤘</h1>
-    </>
+    <header>
+      <h1>₍ᐢ. .ᐢ₎ Gallery of Horns ₍ᐢ. .ᐢ₎</h1>
+    </header>
   );
 
 }
